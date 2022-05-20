@@ -1,4 +1,4 @@
 version: 1
 builder:
   configs:
-  - documentation_targets: [DocC]
+  - documentation_targets: [DocC, SwiftDocC, SwiftDocCUtilities]
